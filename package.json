@@ -1,14 +1,19 @@
 {
-  "name": "simple-shopping",
+  "name": "full-stack-from-scratch-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple boilerplate for React, Express and Webpack",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "full-stack boilerplate",
+    "react boilerplate",
+    "express boilerplate",
+    "webpack boilerplate"
+  ],
+  "author": "Matthew October",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"

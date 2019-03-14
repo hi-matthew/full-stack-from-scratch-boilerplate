@@ -1,17 +1,17 @@
 {
-  "name": "simple-shopping",
+  "name": "full-stack-from-scratch-boilerplate",
   "version": "1.0.0",
-  "description": "A simple shopping cart built with React",
+  "description": "A simple boilerplate for React, Express and Webpack",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack.config.js --mode development",
     "build": "webpack --mode production"
   },
   "keywords": [
-    "simple shopping",
-    "shopping cart",
-    "react shopping cart",
-    "matthew october"
+    "full-stack boilerplate",
+    "react boilerplate",
+    "express boilerplate",
+    "webpack boilerplate"
   ],
   "author": "Matthew October",
   "license": "ISC",
