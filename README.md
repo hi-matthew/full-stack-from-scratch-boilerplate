@@ -13,3 +13,34 @@ Feel free to chime in with any comments or suggestions. And I'd love to see othe
 If nothing else, I hope this is useful to you!
 
 Cheers!
+
+## Install
+
+Clone this repo and rename directory
+
+```bash
+git clone https://github.com/matthewoctober/full-stack-from-scratch-boilerplate.git
+mv full-stack-from-scratch-boilerplate my-project-name
+```
+
+Install dependecies
+
+```bash
+cd my-project-name
+npm i
+cd client
+npm i
+```
+
+Launch webpack dev server and express server
+
+```bash
+npm run dev
+cd ..
+npm run dev
+```
+
+And you're off!
+Also, don't forget to edit your package.json files' info to your project details.
+
+Enjoy!
