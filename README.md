@@ -20,13 +20,13 @@ Clone this repo and rename directory
 
 ```bash
 git clone https://github.com/matthewoctober/full-stack-from-scratch-boilerplate.git
-mv full-stack-from-scratch-boilerplate my-project-name
+mv full-stack-from-scratch-boilerplate/ enter-project-name
 ```
 
 Install dependecies
 
 ```bash
-cd my-project-name
+cd enter-project-name
 npm i
 cd client
 npm i
@@ -38,14 +38,15 @@ Launch webpack dev server
 npm run dev
 ```
 
-Open new terminal window and launch express server
+Open a new terminal window and launch express server
 
 ```bash
 cd ..
 npm run dev
 ```
 
-And you're off!
-Also, don't forget to edit your package.json files' info to your project details.
+Now fire up <a href="http://localhost:8080" target="_blank">http://localhost:8080</a> in your browswer and you're off to the races!
+
+Oh, and don't forget to edit your package.json files' info to your project details (name, description, keywords, author, etc.).
 
 Enjoy!
