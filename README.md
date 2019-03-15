@@ -49,6 +49,9 @@ Now fire up <a href="http://localhost:8080" target="_blank">http://localhost:808
 
 If you see "Hello, this is your server!", you're all set to build whatever your little heart desires!
 
-Oh, and last thing: don't forget to edit your package.json files' info to your own project details (name, description, keywords, author, etc.).
+Oh, and you'll want to do two last things:
 
-Enjoy!
+- Don't forget to edit your package.json files' info to your own project details (name, description, keywords, author, etc.).
+- Uncomment the environment variable filename in your .gitignore file before pushing to any remote repo!
+
+Happy hacking!
