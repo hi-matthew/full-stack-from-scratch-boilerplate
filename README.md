@@ -32,10 +32,15 @@ cd client
 npm i
 ```
 
-Launch webpack dev server and express server
+Launch webpack dev server
 
 ```bash
 npm run dev
+```
+
+Open new terminal window and launch express server
+
+```bash
 cd ..
 npm run dev
 ```
