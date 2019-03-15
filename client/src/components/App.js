@@ -6,11 +6,11 @@ class App extends Component {
   };
 
   componentDidMount() {
-    alert("the component mounted!");
+    console.log("the component mounted!");
   }
 
   render() {
-    return <div>You created a react app from scratch!!</div>;
+    return <h1>You created a react app from scratch!!</h1>;
   }
 }
 
