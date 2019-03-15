@@ -5,12 +5,12 @@ This is a simple boilerplate for building a full-stack application from scratch 
 I created this boilerplate for a few different reasons:
 
 - As a sandbox to practice webpack for any future personal projects.
-- To avoid becoming to dependent on Create-React-App (CRA) and risking not grasping CRA's configurations underneath the hood.
-- To share with others and learn from those smarter than me.
+- To avoid becoming too dependent on Create-React-App (CRA). There's a lot of configurations underneath the hood with CRA and it's easy to overlook some of that inital set-up.
+- To share with others and learn from people way smarter than me.
 
 Feel free to chime in with any comments or suggestions. And I'd love to see other boilerplates as well!
 
-If nothing else, I hope this is useful to you!
+I hope this is useful to anyone who may stumble across it!
 
 Cheers!
 
