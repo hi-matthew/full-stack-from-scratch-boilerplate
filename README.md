@@ -45,8 +45,10 @@ cd ..
 npm run dev
 ```
 
-Now fire up <a href="http://localhost:8080" target="_blank">http://localhost:8080</a> in your browswer and you're off to the races!
+Now fire up <a href="http://localhost:8080" target="_blank">http://localhost:8080</a> in your browser. You should see a message that says "You created a react app from scratch!!" Next you'll want to traverse over to <a href="http://localhost:8080/api" target="_blank">http://localhost:8080/api</a> to make sure you Express server is running properly.
 
-Oh, and don't forget to edit your package.json files' info to your project details (name, description, keywords, author, etc.).
+If you see "Hello, this is your server!", you're all set to build whatever your little heart desires!
+
+Oh, and last thing: don't forget to edit your package.json files' info to your own project details (name, description, keywords, author, etc.).
 
 Enjoy!
