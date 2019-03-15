@@ -1,5 +1,5 @@
 node_modules/
 client/node_modules/
-dist/
+client/dist/
 # Make sure to uncomment environment variables if you're using this for a personal project!
 # *.env
